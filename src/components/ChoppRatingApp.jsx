@@ -120,7 +120,7 @@ export function ChoppRatingApp() {
             className="text-2xl font-light text-pink-600 mb-4"
             style={{ fontFamily: "Georgia, serif" }}
           >
-            diário de chopps pelo centro leste
+            diário de chopps pelo centro leste 💅
           </h2>
 
           <div className="flex gap-4 text-sm font-light text-gray-600">
@@ -280,10 +280,10 @@ export function ChoppRatingApp() {
           <div className="text-center py-16">
             <Wine size={48} className="mx-auto mb-4 text-pink-300" />
             <p className="text-gray-600 font-light text-lg">
-              nenhum chopp ainda
+              nenhum chopp AINDA
             </p>
             <p className="text-gray-400 font-light text-sm mt-1">
-              comecem a jornada dos chopps
+              bora beber, diva!
             </p>
           </div>
         ) : (
